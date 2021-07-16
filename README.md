@@ -1,3 +1,2 @@
-# hello-world101
-Just another repository
-I 've made changes to this version. 
+# roboFriends
+A simple live search and database view of an API on the internet with react.
